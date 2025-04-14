@@ -1,4 +1,4 @@
-# 👩‍💻 Bruna Mello
+#  Bruna Mello
 
 Desenvolvedora de Software em formação, apaixonada por programação e por criar soluções tecnológicas inovadoras. Em constante evolução, sempre buscando aplicar meus conhecimentos em projetos desafiadores e contribuir para o crescimento de soluções digitais.
 
@@ -17,20 +17,20 @@ Desenvolvedora de Software em formação, apaixonada por programação e por cri
 </p>
 
 
-## 🎯 Objetivo
+##  Objetivo
 
 Atuar como desenvolvedora de software, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais. Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de soluções de impacto.
 
 ---
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 - **Graduanda em Sistemas de Informação** – UNIFACISA (2024)
 
 ---
 
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <!-- Java -->
