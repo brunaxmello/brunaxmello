@@ -46,24 +46,6 @@ Atuar como desenvolvedora de software, aplicando minhas habilidades técnicas e 
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunaxmello&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunaxmello&layout=compact&langs_count=6&theme=github" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <!-- Badge para Linguagens mais usadas -->
-  <img src="https://img.shields.io/badge/Java-%23E34F26?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%23E33D33?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-%23324B7C?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
 
 ## 💼 Projetos Relevantes
 
