@@ -6,6 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Bem-vinda(o)%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff"/>
 </p>
 
+---
+
 ## Objetivo
 Atuar como desenvolvedora de software, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais. Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de soluções de impacto.
 
