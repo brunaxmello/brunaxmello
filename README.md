@@ -1,11 +1,9 @@
+<h2 align="center">Olá, eu sou a Bruna! ☁️</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Bruna+Mello+•+Desenvolvedora+Back-end;Criando+soluções+com+Java+e+criatividade+💫" />
+  Desenvolvedora Back-end em formação
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Bem-vinda(o)%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff" />
-</p>
-
+---
 ---
 
 ## Objetivo
