@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+•+Desenvolvedora+Back-end;Criando+soluções+com+Java+e+criatividade+💫" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bruna+Mello+•+Desenvolvedora+Back-end;Criando+soluções+com+Java+e+criatividade+💫" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Bruna%20Mello%20👩‍💻&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=250&section=header&text=Bruna%20Mello%20👩‍💻&fontSize=45&fontColor=ffffff&fontAlignY=45&textColor=ffffff&animation=fadeIn&fontAlign=center" />
 </p>
-
 ---
 
 ## Objetivo
