@@ -5,7 +5,7 @@
 ---
 
 ## Objetivo
-Atuar como desenvolvedora de software, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais. Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de soluções de impacto.
+Atuar como desenvolvedora de software na área de back-end, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais. Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de soluções de impacto.
 
 ---
 
