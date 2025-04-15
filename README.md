@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+%E2%80%A2+Desenvolvedora+Back-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+%E2%80%A2+Desenvolvedora+Backend" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=80&section=header&text=Olá%2C%20sou%20a%20Bruna!&fontSize=30&fontColor=fff"/>
-</p>
+
 ---
 
 ## Objetivo
