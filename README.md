@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+%E2%80%A2+UI+Designer+e+Dev;Criando+solu%C3%A7%C3%B5es+com+Java+e+criatividade+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+•+Desenvolvedora+Back-end;Criando+soluções+com+Java+e+criatividade+💫" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=80&section=header&text=Olá%2C%20sou%20a%20Bruna!&fontSize=30&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Bem-vinda(o)%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff"/>
 </p>
 
 ## Objetivo
