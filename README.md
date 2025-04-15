@@ -1,10 +1,9 @@
-<!-- HEADER COM ESTILO GALÁCTICO E TIPOGRAFIA DINÂMICA -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Olá%2C+sou+Bruna+Mello!;Desenvolvedora+em+formação.;UI+Designer+e+apaixonada+por+tecnologia+💜" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Bruna+Mello+%E2%80%A2+UI+Designer+e+Dev;Criando+solu%C3%A7%C3%B5es+com+Java+e+criatividade+%F0%9F%92%AB" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Bruna%20Mello%20✨&fontSize=45&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=0.3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=80&section=header&text=Olá%2C%20sou%20a%20Bruna!&fontSize=30&fontColor=fff"/>
 </p>
 
 ## Objetivo
