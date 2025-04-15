@@ -8,16 +8,13 @@
 
 ---
 
-### 🎯 Objetivo
-
-Atuar como **desenvolvedora de software**, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais.  
-Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de **soluções de impacto**.
+## Objetivo
+Atuar como desenvolvedora de software, aplicando minhas habilidades técnicas e aprendizados acadêmicos em projetos reais. Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e colaborar com equipes engajadas na criação de soluções de impacto.
 
 ---
 
-### 🎓 Formação Acadêmica
-
-- 🧑‍🎓 **Graduanda em Sistemas de Informação** – UNIFACISA *(Previsão de Conclusão: 2024)*
+## Formação Acadêmica
+- *Graduanda em Sistemas de Informação* – UNIFACISA (2024)
 
 ---
 
@@ -29,36 +26,20 @@ Busco oportunidades para crescer profissionalmente, explorar novas tecnologias e
 
 ---
 
-### 💼 Projetos Relevantes
+## 💼 Projetos Relevantes
 
-#### 🧠 HackaTruck MakerSpace – Instituto de Pesquisas Eldorado  
-Protótipo de aplicativo iOS com **Swift e SwiftUI** voltado para crianças com dificuldades de fala.
+### 🧠 HackaTruck MakerSpace – Instituto de Pesquisas Eldorado
+Desenvolvimento de um protótipo de aplicativo iOS com *Swift e SwiftUI* voltado para crianças com dificuldades de fala.
 
-#### 💖 Abrace um RN – Campina Grande  
-Site colaborativo com **HTML**, **SCSS** e **Angular.js** para campanha de arrecadação voltada a mães em situação de vulnerabilidade.
-
----
-
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunaxmello&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunaxmello&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+### 💖 Abrace um RN – Campina Grande
+Desenvolvimento de um site colaborativo com *HTML, **SCSS* e *Angular.js* para uma campanha de arrecadação voltada a mães em situação de vulnerabilidade.
 
 ---
 
-### 📫 Contato
-
-<p align="center">
-  <a href="mailto:brunamellox.si@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bruna-mello-7a29a52b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## ✨ Contato
+📧 brunamellox.si@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/bruna-mello-7a29a52b7/)
 
 ---
 
-> _"Transformando conhecimento em soluções tecnológicas que impactam vidas."_ 🚀
+> "Transformando conhecimento em soluções tecnológicas que impactam vidas."
