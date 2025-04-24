@@ -14,7 +14,7 @@ Atuar como desenvolvedora de software na área de back-end, aplicando minhas hab
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,swift,python,mysql,postgresql,git" />
@@ -22,17 +22,17 @@ Atuar como desenvolvedora de software na área de back-end, aplicando minhas hab
 
 ---
 
-## 💼 Projetos Relevantes
+##  Projetos Relevantes
 
-### 🧠 HackaTruck MakerSpace – Instituto de Pesquisas Eldorado
+###  HackaTruck MakerSpace – Instituto de Pesquisas Eldorado
 Desenvolvimento de um protótipo de aplicativo iOS com *Swift e SwiftUI* voltado para crianças com dificuldades de fala.
 
-### 💖 Abrace um RN – Campina Grande
+###  Abrace um RN – Campina Grande
 Desenvolvimento de um site colaborativo com *HTML, **SCSS* e *Angular.js* para uma campanha de arrecadação voltada a mães em situação de vulnerabilidade.
 
 ---
 
-## ✨ Contato
+##  Contato
 📧 brunamellox.si@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/bruna-mello-7a29a52b7/)
 
