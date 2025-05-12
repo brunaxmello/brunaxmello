@@ -38,4 +38,4 @@ Desenvolvimento de um site colaborativo com *HTML, **SCSS* e *Angular.js* para u
 
 ---
 
-> "Transformando conhecimento em soluções tecnológicas que impactam vidas."
+
