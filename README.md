@@ -28,7 +28,7 @@ Atuar como desenvolvedora de software na área de back-end, aplicando minhas hab
 Desenvolvimento de um protótipo de aplicativo iOS com *Swift e SwiftUI* voltado para crianças com dificuldades de fala.
 
 ###  Abrace um RN – Campina Grande
-Desenvolvimento de um site colaborativo com *HTML, **CSS* e *Angular.js* para uma campanha de arrecadação voltada a mães em situação de vulnerabilidade.
+Desenvolvimento de um site colaborativo com HTML, *CSS* e Angular.js para uma campanha de arrecadação voltada a mães em situação de vulnerabilidade.
 
 ---
 
